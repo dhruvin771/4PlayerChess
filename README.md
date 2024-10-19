@@ -5,6 +5,10 @@
 <h1 align="center">chess4player</h1>
 <h3 align="center">An open source multiplayer chess game <br> for up to 4 players on windows, macOS and GNU/linux</h3>
 
+### Project Fork and AI Bot Development
+
+This repository is a fork of the original [chess4player](https://github.com/schiller-sql/chess4player) project. My goal with this fork is to add AI-powered bots to the game, enhancing the multiplayer experience by allowing users to play against intelligent chess bots. I am currently researching how deep learning techniques can be used to develop adaptive and competitive AI opponents. This will involve integrating machine learning models to make the bots more sophisticated and capable of learning from gameplay patterns. Stay tuned for updates on this exciting addition!
+
 <br>
 
 <p align="center">
